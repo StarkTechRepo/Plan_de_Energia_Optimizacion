@@ -19,3 +19,8 @@ Este repositorio te proporciona una serie de comandos útiles para optimizar el 
 - **Desactivar la Hibernación:** Ejecuta `powercfg /hibernate off` para desactivar la función de hibernación y liberar espacio en disco.
 
 Recuerda que los ajustes de energía pueden influir en el rendimiento y la duración de la batería de tu dispositivo. Aprovecha estos comandos para crear un plan de energía personalizado que se adapte a tus necesidades y estilo de uso, optimizando así la eficiencia energética y el rendimiento de tu sistema.
+
+Para obtener más detalles sobre las opciones de línea de comandos de `powercfg`, puedes consultar la [documentación oficial](https://learn.microsoft.com/es-es/windows-hardware/design/device-experiences/powercfg-command-line-options).
+
+## Licencia
+Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
